@@ -39,15 +39,7 @@ A 64-neuron, 4096-synapse Spiking Neural Network processor in Verilog featuring 
 | `neuromorphic_top.v` | Top-level SoC |
 | `tb_neuromorphic_top.v` | End-to-end testbench |
 
-## Simulate
 
-```bash
-iverilog -g2005-sv -o sim.vvp lif_neuron_event.v neuron_array.v weight_sram.v \
-  trace_mem_async.v timestamp_counter.v stdp_engine_async.v aer_decoder.v \
-  aer_encoder.v aer_arbiter.v neuromorphic_top.v tb_neuromorphic_top.v
-
-vvp sim.vvp
-```
 
 ## Parameters
 
@@ -60,7 +52,4 @@ vvp sim.vvp
 | `T_WINDOW` | 64 | STDP time window |
 | `STAGE_DELAY` | 2ns | Async pipeline delay |
 
-## Tools
 
-- **Simulator**: Icarus Verilog (`iverilog` + `vvp`)
-- **Waveform**: GTKWave (`.vcd` output)
