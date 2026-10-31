@@ -1,0 +1,17 @@
+SYNCHRONOUS STDP ENGINE — CURRENT FLOW
+
+The entire event-processing path uses clk. The top-level scanner captures one event batch per cycle. A batch stores the optional external AER pre-event, the bit mask of all local neurons that rose in that cycle, and the common timestamp. This gives each batch FIFO array one write port instead of creating many variable-index writes in one cycle. The scanner serializes the batch into individual STDP events and sends one pre/post neuron pair at a time to stdp_engine_sync.
+
+For a pre-spike at neuron i, the scanner sends pairs (i,0) through (i,N-1). For a post-spike at neuron j, it sends (0,j) through (N-1,j). External AER source events are pre-spikes. Each local neuron spike is serialized as a pre-spike followed by a post-spike, with its timestamp retained in the batch.
+
+For each pair transaction:
+1. The engine accepts spike_req and latches event type, timestamp, and {pre_id,post_id} weight address.
+2. For a post event, it reads pre_trace[pre_id] and stores the current time in post_trace[post_id]. For a pre event, it reads post_trace[post_id] and stores the current time in pre_trace[pre_id]. Valid bits distinguish an unwritten trace from timestamp zero.
+3. It calculates dt. If the opposite trace exists and 0 < dt <= T_WINDOW, it computes delta = A_POS or A_NEG shifted by (dt >> DECAY_SHIFT).
+4. It issues a synchronous read of the selected weight from SRAM and waits for the returned data.
+5. A post event potentiates the weight, clamped to W_MAX. A pre event depresses it, clamped to W_MIN. A zero delta or invalid timing skips the write.
+6. It writes the updated weight on the next clocked SRAM port and raises spike_ack. The top lowers spike_req; the engine then clears acknowledge and accepts another pair.
+
+The production weight SRAM wrapper uses eight SKY130 1RW1R 1024x8 macros to form the 4096x16 matrix. Configuration and monitor accesses share the macro read/write port with STDP; configuration has priority and the STDP FSM waits when deferred. AER reads use the independent read-only port. The RTL simulation model starts uninitialized; real SRAM has no reset, so the loader must initialize every weight used by the network. Configuration and monitor clients should observe cfg_w_ready and w_mon_ready, respectively.
+
+The engine is now written as a clocked FSM without # delays or event waits. The event batch FIFO change and macro-backed SRAM wrapper have not yet been functionally simulated or synthesized. This is not foundry signoff: run the top-level tests, map the RTL using the macro Liberty view, include the macro LEF in physical design, then run STA for the selected process corner.

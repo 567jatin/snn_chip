@@ -1,0 +1,50 @@
+156. Printing statistics.
+
+=== neuromorphic_top ===
+
+   Number of wires:              36798
+   Number of wire bits:          53562
+   Number of public wires:        1254
+   Number of public wire bits:   17772
+   Number of ports:                 25
+   Number of port bits:            185
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              53253
+     $_ANDNOT_                    7801
+     $_AND_                        410
+     $_DFFE_PP_                  13184
+     $_DFF_P_                       16
+     $_MUX_                      16102
+     $_NAND_                      1098
+     $_NOR_                       1870
+     $_NOT_                       1581
+     $_ORNOT_                      396
+     $_OR_                        3228
+     $_SDFFE_PN0N_                   2
+     $_SDFFE_PN0P_                2526
+     $_SDFF_PN0_                   463
+     $_SDFF_PP0_                    97
+     $_XNOR_                      2019
+     $_XOR_                       2452
+     sky130_sram_1kbyte_1rw1r_8x1024_8      8
+
+   Area for cell type $_NOT_ is unknown!
+   Area for cell type $_AND_ is unknown!
+   Area for cell type $_NAND_ is unknown!
+   Area for cell type $_OR_ is unknown!
+   Area for cell type $_NOR_ is unknown!
+   Area for cell type $_XOR_ is unknown!
+   Area for cell type $_XNOR_ is unknown!
+   Area for cell type $_ANDNOT_ is unknown!
+   Area for cell type $_ORNOT_ is unknown!
+   Area for cell type $_MUX_ is unknown!
+   Area for cell type $_DFF_P_ is unknown!
+   Area for cell type $_DFFE_PP_ is unknown!
+   Area for cell type $_SDFF_PN0_ is unknown!
+   Area for cell type $_SDFF_PP0_ is unknown!
+   Area for cell type $_SDFFE_PN0N_ is unknown!
+   Area for cell type $_SDFFE_PN0P_ is unknown!
+   Area for cell type \sky130_sram_1kbyte_1rw1r_8x1024_8 is unknown!
+

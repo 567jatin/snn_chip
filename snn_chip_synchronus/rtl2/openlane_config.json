@@ -1,0 +1,67 @@
+{
+  "DESIGN_NAME": "neuromorphic_top",
+  "VERILOG_FILES": [
+    "./priority_encoder.v",
+    "./aer_interface.v",
+    "./lif_neuron_event.v",
+    "./neuron_array.v",
+    "./neuromorphic_top.v",
+    "./stdp_engine_sync.v",
+    "./timestamp_counter.v",
+    "./weight_sram.v"
+  ],
+  "VERILOG_DEFINES": ["SYNTHESIS"],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 10.0,
+  "RUN_ANTENNA_REPAIR": true,
+  "RUN_HEURISTIC_DIODE_INSERTION": true,
+  "DIODE_ON_PORTS": "in",
+  "HEURISTIC_ANTENNA_THRESHOLD": 90,
+  "PL_RESIZER_HOLD_SLACK_MARGIN": 0.5,
+  "GRT_RESIZER_HOLD_SLACK_MARGIN": 0.5,
+  "RUN_POST_GRT_RESIZER_TIMING": true,
+  "NETGEN_SETUP": "/home/test/snn_chip/snn_chip_synchronus/rtl2/netgen_setup_custom.tcl",
+  "PRIMARY_GDSII_STREAMOUT_TOOL": "klayout",
+  "RUN_MAGIC_STREAMOUT": false,
+  "RUN_KLAYOUT_STREAMOUT": true,
+  "RUN_MAGIC_WRITE_LEF": false,
+  "RUN_MAGIC_DRC": false,
+  "STA_CORNERS": ["nom_tt_025C_1v80"],
+  "PNR_SDC_FILE": "./neuromorphic_top.sdc",
+  "SIGNOFF_SDC_FILE": "./neuromorphic_top.sdc",
+  "PDK_ROOT": "/home/test/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af",
+  "PDK": "sky130A",
+  "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+  "FP_CORE_UTIL": 30,
+  "MACROS": {
+    "sky130_sram_1kbyte_1rw1r_8x1024_8": {
+      "gds": ["/home/test/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_sram_macros/gds/sky130_sram_1kbyte_1rw1r_8x1024_8.gds"],
+      "lef": ["/home/test/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_sram_macros/lef/sky130_sram_1kbyte_1rw1r_8x1024_8.lef"],
+      "lib": {
+        "*_tt_025C_1v80": ["/home/test/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_sram_macros/lib/sky130_sram_1kbyte_1rw1r_8x1024_8_TT_1p8V_25C.lib"]
+      },
+      "vh": ["./sky130_sram_macro_blackbox.v"],
+      "spice": ["/home/test/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_sram_macros/spice/sky130_sram_1kbyte_1rw1r_8x1024_8.spice"],
+      "instances": {
+        "u_weight_sram.g_bank[0].u_lo": {"location": [100, 100], "orientation": "N"},
+        "u_weight_sram.g_bank[0].u_hi": {"location": [580, 100], "orientation": "N"},
+        "u_weight_sram.g_bank[1].u_lo": {"location": [1110, 100], "orientation": "N"},
+        "u_weight_sram.g_bank[1].u_hi": {"location": [1590, 100], "orientation": "N"},
+        "u_weight_sram.g_bank[2].u_lo": {"location": [100, 620], "orientation": "N"},
+        "u_weight_sram.g_bank[2].u_hi": {"location": [580, 620], "orientation": "N"},
+        "u_weight_sram.g_bank[3].u_lo": {"location": [1110, 620], "orientation": "N"},
+        "u_weight_sram.g_bank[3].u_hi": {"location": [1590, 620], "orientation": "N"}
+      }
+    }
+  },
+  "EXTRA_SPICE_MODELS": [
+    "/home/test/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_sram_macros/spice/sky130_sram_1kbyte_1rw1r_8x1024_8.spice"
+  ],
+  "VSRC_LOC_FILES": {
+    "VPWR": "./vsrc_vpwr.txt"
+  },
+  "PDN_MACRO_CONNECTIONS": [
+    "u_weight_sram.*u_lo VPWR VGND vccd1 vssd1",
+    "u_weight_sram.*u_hi VPWR VGND vccd1 vssd1"
+  ]
+}

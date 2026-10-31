@@ -1,3 +1,47 @@
-*.vcd
+# ==============================================================================
+# .gitignore for SNN Chip Tapeout Repository (SKY130A)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# OpenLane & Physical Design Intermediate Artifacts
+# ------------------------------------------------------------------------------
+# Ignore all scratch runs and intermediate tool checkpoints
+runs/
+**/runs/
+!snn_chip_synchronus/rtl2/final/
+
+# Ignore uncompressed large deliverables (use decompress_signoff.sh to unpack)
 *.gds
-snn_chip_synchronus/runs/
+!*.gds.gz
+*.def
+!*.def.gz
+*.spef
+!*.spef.gz
+*.odb
+*.o
+*.obj
+
+# ------------------------------------------------------------------------------
+# EDA Tool & Simulator Intermediate Outputs
+# ------------------------------------------------------------------------------
+*.vcd
+*.vpd
+*.fsdb
+*.wlf
+*.log
+*.tmp
+*.rpt.old
+*.bak
+*~
+*.swp
+
+# Build & Python caches
+build/
+**/build/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

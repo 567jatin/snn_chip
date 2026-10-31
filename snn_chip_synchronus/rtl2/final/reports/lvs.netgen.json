@@ -1,0 +1,5481 @@
+[
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A0",
+        "A1",
+        "A2",
+        "A3",
+        "S0",
+        "S1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A0",
+        "A1",
+        "A2",
+        "A3",
+        "S0",
+        "S1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "CLK",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Q"
+      ], [
+        "CLK",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Q"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A0",
+        "A1",
+        "A2",
+        "A3",
+        "S0",
+        "S1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A0",
+        "A1",
+        "A2",
+        "A3",
+        "S0",
+        "S1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1_N",
+        "A2_N",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1_N",
+        "A2_N",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1_N",
+        "A2_N",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1_N",
+        "A2_N",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "CLK",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Q"
+      ], [
+        "CLK",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Q"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B_N",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B_N",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "CLK",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Q"
+      ], [
+        "CLK",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Q"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "HI",
+        "LO"
+      ], [
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "HI",
+        "LO"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A0",
+        "A1",
+        "S",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B_N",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B_N",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "din0[0]",
+        "din0[1]",
+        "din0[2]",
+        "din0[3]",
+        "din0[4]",
+        "din0[5]",
+        "din0[6]",
+        "din0[7]",
+        "addr0[0]",
+        "addr0[1]",
+        "addr0[2]",
+        "addr0[3]",
+        "addr0[4]",
+        "addr0[5]",
+        "addr0[6]",
+        "addr0[7]",
+        "addr0[8]",
+        "addr0[9]",
+        "addr1[0]",
+        "addr1[1]",
+        "addr1[2]",
+        "addr1[3]",
+        "addr1[4]",
+        "addr1[5]",
+        "addr1[6]",
+        "addr1[7]",
+        "addr1[8]",
+        "addr1[9]",
+        "csb0",
+        "csb1",
+        "web0",
+        "clk0",
+        "clk1",
+        "wmask0[0]",
+        "dout0[0]",
+        "dout0[1]",
+        "dout0[2]",
+        "dout0[3]",
+        "dout0[4]",
+        "dout0[5]",
+        "dout0[6]",
+        "dout0[7]",
+        "dout1[0]",
+        "dout1[1]",
+        "dout1[2]",
+        "dout1[3]",
+        "dout1[4]",
+        "dout1[5]",
+        "dout1[6]",
+        "dout1[7]",
+        "vccd1",
+        "vssd1"
+      ], [
+        "din0[0]",
+        "din0[1]",
+        "din0[2]",
+        "din0[3]",
+        "din0[4]",
+        "din0[5]",
+        "din0[6]",
+        "din0[7]",
+        "addr0[0]",
+        "addr0[1]",
+        "addr0[2]",
+        "addr0[3]",
+        "addr0[4]",
+        "addr0[5]",
+        "addr0[6]",
+        "addr0[7]",
+        "addr0[8]",
+        "addr0[9]",
+        "addr1[0]",
+        "addr1[1]",
+        "addr1[2]",
+        "addr1[3]",
+        "addr1[4]",
+        "addr1[5]",
+        "addr1[6]",
+        "addr1[7]",
+        "addr1[8]",
+        "addr1[9]",
+        "csb0",
+        "csb1",
+        "web0",
+        "clk0",
+        "clk1",
+        "wmask0[0]",
+        "dout0[0]",
+        "dout0[1]",
+        "dout0[2]",
+        "dout0[3]",
+        "dout0[4]",
+        "dout0[5]",
+        "dout0[6]",
+        "dout0[7]",
+        "dout1[0]",
+        "dout1[1]",
+        "dout1[2]",
+        "dout1[3]",
+        "dout1[4]",
+        "dout1[5]",
+        "dout1[6]",
+        "dout1[7]",
+        "vccd1",
+        "vssd1"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B_N",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B_N",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A_N",
+        "B",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A_N",
+        "B",
+        "C",
+        "D",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C_N",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ], [
+        "A",
+        "B",
+        "C_N",
+        "D_N",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "X"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ], [
+        "A1",
+        "A2",
+        "B1",
+        "C1",
+        "D1",
+        "VGND",
+        "VNB",
+        "VPB",
+        "VPWR",
+        "Y"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "neuromorphic_top",
+      "neuromorphic_top"
+   ],
+   "devices": [
+       [
+         ["sky130_fd_sc_hd__dlygate4sd3_1", 15590],
+         ["sky130_fd_sc_hd__mux4_1", 3225],
+         ["sky130_fd_sc_hd__mux2_1", 15597],
+         ["sky130_fd_sc_hd__a21oi_1", 659],
+         ["sky130_fd_sc_hd__and2_1", 1712],
+         ["sky130_fd_sc_hd__dfxtp_1", 15927],
+         ["sky130_fd_sc_hd__and2_4", 81],
+         ["sky130_fd_sc_hd__clkbuf_8", 2376],
+         ["sky130_fd_sc_hd__or2_1", 2741],
+         ["sky130_fd_sc_hd__mux4_2", 74],
+         ["sky130_fd_sc_hd__a2bb2o_1", 427],
+         ["sky130_fd_sc_hd__o221a_2", 15],
+         ["sky130_fd_sc_hd__nor2_1", 1746],
+         ["sky130_fd_sc_hd__a221o_1", 401],
+         ["sky130_fd_sc_hd__o2bb2a_1", 65],
+         ["sky130_fd_sc_hd__o211a_1", 1482],
+         ["sky130_fd_sc_hd__nand2_1", 2149],
+         ["sky130_fd_sc_hd__a21o_1", 1875],
+         ["sky130_fd_sc_hd__or2_4", 123],
+         ["sky130_fd_sc_hd__a41o_1", 20],
+         ["sky130_fd_sc_hd__xnor2_1", 1049],
+         ["sky130_fd_sc_hd__clkbuf_2", 163],
+         ["sky130_fd_sc_hd__a22o_1", 466],
+         ["sky130_fd_sc_hd__and3b_1", 573],
+         ["sky130_fd_sc_hd__a221oi_2", 8],
+         ["sky130_fd_sc_hd__xor2_1", 709],
+         ["sky130_fd_sc_hd__o221a_1", 315],
+         ["sky130_fd_sc_hd__or4_1", 104],
+         ["sky130_fd_sc_hd__o21a_1", 983],
+         ["sky130_fd_sc_hd__or3b_1", 85],
+         ["sky130_fd_sc_hd__a32o_4", 14],
+         ["sky130_fd_sc_hd__a21boi_1", 541],
+         ["sky130_fd_sc_hd__inv_2", 932],
+         ["sky130_fd_sc_hd__clkbuf_16", 295],
+         ["sky130_fd_sc_hd__and4_1", 11],
+         ["sky130_fd_sc_hd__a31o_1", 363],
+         ["sky130_fd_sc_hd__clkinv_4", 188],
+         ["sky130_fd_sc_hd__and2_2", 43],
+         ["sky130_fd_sc_hd__a211o_1", 121],
+         ["sky130_fd_sc_hd__a32o_1", 99],
+         ["sky130_fd_sc_hd__buf_12", 642],
+         ["sky130_fd_sc_hd__dfxtp_4", 257],
+         ["sky130_fd_sc_hd__and2b_1", 569],
+         ["sky130_fd_sc_hd__inv_6", 274],
+         ["sky130_fd_sc_hd__inv_8", 86],
+         ["sky130_fd_sc_hd__clkbuf_4", 295],
+         ["sky130_fd_sc_hd__a311o_1", 142],
+         ["sky130_fd_sc_hd__clkinvlp_4", 292],
+         ["sky130_fd_sc_hd__bufinv_16", 243],
+         ["sky130_fd_sc_hd__a311o_2", 36],
+         ["sky130_fd_sc_hd__o22a_1", 38],
+         ["sky130_fd_sc_hd__o21ba_1", 42],
+         ["sky130_fd_sc_hd__nand3b_4", 8],
+         ["sky130_fd_sc_hd__nand2_2", 37],
+         ["sky130_fd_sc_hd__a31o_2", 18],
+         ["sky130_fd_sc_hd__o32a_1", 24],
+         ["sky130_fd_sc_hd__or4_2", 7],
+         ["sky130_fd_sc_hd__o2111a_1", 14],
+         ["sky130_fd_sc_hd__o21ai_1", 456],
+         ["sky130_fd_sc_hd__nand2_4", 85],
+         ["sky130_fd_sc_hd__or3_1", 438],
+         ["sky130_fd_sc_hd__clkinv_2", 410],
+         ["sky130_fd_sc_hd__and4bb_1", 61],
+         ["sky130_fd_sc_hd__nand2b_4", 19],
+         ["sky130_fd_sc_hd__or3_2", 6],
+         ["sky130_fd_sc_hd__nand2b_1", 163],
+         ["sky130_fd_sc_hd__nand2_8", 60],
+         ["sky130_fd_sc_hd__a2111o_1", 20],
+         ["sky130_fd_sc_hd__and3_2", 9],
+         ["sky130_fd_sc_hd__o31a_1", 169],
+         ["sky130_fd_sc_hd__o311a_1", 176],
+         ["sky130_fd_sc_hd__buf_4", 228],
+         ["sky130_fd_sc_hd__and2b_4", 75],
+         ["sky130_fd_sc_hd__o31ai_2", 2],
+         ["sky130_fd_sc_hd__o211ai_1", 23],
+         ["sky130_fd_sc_hd__and3_1", 289],
+         ["sky130_fd_sc_hd__mux2_4", 3],
+         ["sky130_fd_sc_hd__a211oi_1", 26],
+         ["sky130_fd_sc_hd__dfxtp_2", 104],
+         ["sky130_fd_sc_hd__and4b_1", 5],
+         ["sky130_fd_sc_hd__mux2_8", 16],
+         ["sky130_fd_sc_hd__a21bo_1", 123],
+         ["sky130_fd_sc_hd__and4_4", 14],
+         ["sky130_fd_sc_hd__or2_2", 65],
+         ["sky130_fd_sc_hd__clkbuf_1", 85],
+         ["sky130_fd_sc_hd__nor3_1", 142],
+         ["sky130_fd_sc_hd__and4b_4", 16],
+         ["sky130_fd_sc_hd__nor3_4", 28],
+         ["sky130_fd_sc_hd__buf_8", 25],
+         ["sky130_fd_sc_hd__a311o_4", 8],
+         ["sky130_fd_sc_hd__nor3_2", 23],
+         ["sky130_fd_sc_hd__o21a_4", 1],
+         ["sky130_fd_sc_hd__or4b_1", 9],
+         ["sky130_fd_sc_hd__or3b_2", 7],
+         ["sky130_fd_sc_hd__o21bai_1", 8],
+         ["sky130_fd_sc_hd__o31ai_1", 19],
+         ["sky130_fd_sc_hd__a311oi_4", 3],
+         ["sky130_fd_sc_hd__and3b_4", 12],
+         ["sky130_fd_sc_hd__and4_2", 1],
+         ["sky130_fd_sc_hd__o41a_1", 3],
+         ["sky130_fd_sc_hd__nor2_8", 95],
+         ["sky130_fd_sc_hd__buf_6", 162],
+         ["sky130_fd_sc_hd__clkinv_16", 22],
+         ["sky130_fd_sc_hd__nand2b_2", 36],
+         ["sky130_fd_sc_hd__inv_4", 29],
+         ["sky130_fd_sc_hd__a211oi_2", 32],
+         ["sky130_fd_sc_hd__nor2_2", 37],
+         ["sky130_fd_sc_hd__or4bb_4", 10],
+         ["sky130_fd_sc_hd__buf_2", 8],
+         ["sky130_fd_sc_hd__a31o_4", 5],
+         ["sky130_fd_sc_hd__o21ai_4", 1],
+         ["sky130_fd_sc_hd__a21o_4", 4],
+         ["sky130_fd_sc_hd__a31oi_1", 10],
+         ["sky130_fd_sc_hd__or4b_4", 16],
+         ["sky130_fd_sc_hd__o211a_4", 4],
+         ["sky130_fd_sc_hd__o31a_2", 6],
+         ["sky130_fd_sc_hd__nor4_1", 16],
+         ["sky130_fd_sc_hd__nor2_4", 13],
+         ["sky130_fd_sc_hd__clkinv_8", 31],
+         ["sky130_fd_sc_hd__conb_1", 8],
+         ["sky130_fd_sc_hd__or4bb_1", 2],
+         ["sky130_fd_sc_hd__a221oi_1", 21],
+         ["sky130_fd_sc_hd__a22oi_4", 1],
+         ["sky130_fd_sc_hd__a22o_2", 2],
+         ["sky130_fd_sc_hd__a211o_4", 11],
+         ["sky130_fd_sc_hd__o311a_2", 4],
+         ["sky130_fd_sc_hd__a221o_2", 13],
+         ["sky130_fd_sc_hd__a21oi_2", 10],
+         ["sky130_fd_sc_hd__nand3_2", 4],
+         ["sky130_fd_sc_hd__a22oi_1", 7],
+         ["sky130_fd_sc_hd__or3_4", 11],
+         ["sky130_fd_sc_hd__and3_4", 13],
+         ["sky130_fd_sc_hd__a22o_4", 11],
+         ["sky130_fd_sc_hd__a31oi_2", 2],
+         ["sky130_fd_sc_hd__inv_12", 4],
+         ["sky130_fd_sc_hd__a211oi_4", 3],
+         ["sky130_fd_sc_hd__o311ai_2", 3],
+         ["sky130_fd_sc_hd__xnor2_4", 12],
+         ["sky130_fd_sc_hd__o211ai_4", 5],
+         ["sky130_fd_sc_hd__a32o_2", 8],
+         ["sky130_fd_sc_hd__nand3_1", 18],
+         ["sky130_fd_sc_hd__or4_4", 15],
+         ["sky130_fd_sc_hd__or4b_2", 1],
+         ["sky130_fd_sc_hd__nor3b_4", 7],
+         ["sky130_fd_sc_hd__xor2_4", 1],
+         ["sky130_fd_sc_hd__nand3_4", 6],
+         ["sky130_fd_sc_hd__o31ai_4", 2],
+         ["sky130_fd_sc_hd__xnor2_2", 28],
+         ["sky130_fd_sc_hd__a21o_2", 8],
+         ["sky130_fd_sc_hd__mux2_2", 4],
+         ["sky130_fd_sc_hd__o41a_2", 1],
+         ["sky130_fd_sc_hd__nand3b_2", 2],
+         ["sky130_fd_sc_hd__a41o_2", 1],
+         ["sky130_fd_sc_hd__or3b_4", 12],
+         ["sky130_fd_sc_hd__o22a_2", 4],
+         ["sky130_fd_sc_hd__xor2_2", 2],
+         ["sky130_fd_sc_hd__and3b_2", 2],
+         ["sky130_fd_sc_hd__a31oi_4", 2],
+         ["sky130_fd_sc_hd__o41ai_4", 1],
+         ["sky130_fd_sc_hd__and4b_2", 1],
+         ["sky130_fd_sc_hd__and4bb_4", 11],
+         ["sky130_fd_sc_hd__a21oi_4", 6],
+         ["sky130_sram_1kbyte_1rw1r_8x1024_8", 8],
+         ["sky130_fd_sc_hd__and4bb_2", 14],
+         ["sky130_fd_sc_hd__o221ai_1", 3],
+         ["sky130_fd_sc_hd__o22ai_1", 2],
+         ["sky130_fd_sc_hd__o211a_2", 11],
+         ["sky130_fd_sc_hd__o21bai_4", 1],
+         ["sky130_fd_sc_hd__a221o_4", 11],
+         ["sky130_fd_sc_hd__o211ai_2", 5],
+         ["sky130_fd_sc_hd__o21ai_2", 4],
+         ["sky130_fd_sc_hd__nor4_4", 3],
+         ["sky130_fd_sc_hd__a2111oi_1", 4],
+         ["sky130_fd_sc_hd__a41o_4", 2],
+         ["sky130_fd_sc_hd__a211o_2", 1],
+         ["sky130_fd_sc_hd__and2b_2", 3],
+         ["sky130_fd_sc_hd__a32oi_1", 2],
+         ["sky130_fd_sc_hd__nand4_4", 2],
+         ["sky130_fd_sc_hd__o32ai_1", 1],
+         ["sky130_fd_sc_hd__nor4_2", 4],
+         ["sky130_fd_sc_hd__inv_16", 2],
+         ["sky130_fd_sc_hd__a2111oi_2", 1],
+         ["sky130_fd_sc_hd__nand4b_4", 1],
+         ["sky130_fd_sc_hd__nand3b_1", 4],
+         ["sky130_fd_sc_hd__a311oi_2", 1],
+         ["sky130_fd_sc_hd__nand4_2", 1],
+         ["sky130_fd_sc_hd__o41a_4", 1],
+         ["sky130_fd_sc_hd__o311ai_4", 2],
+         ["sky130_fd_sc_hd__o21bai_2", 4],
+         ["sky130_fd_sc_hd__o2111ai_1", 3],
+         ["sky130_fd_sc_hd__nand4b_1", 1],
+         ["sky130_fd_sc_hd__o221ai_4", 1],
+         ["sky130_fd_sc_hd__clkinv_1", 1],
+         ["sky130_fd_sc_hd__or4bb_2", 1],
+         ["sky130_fd_sc_hd__o2111ai_2", 1 ]
+       ], [
+         ["sky130_fd_sc_hd__dlygate4sd3_1", 15590 ],
+         ["sky130_fd_sc_hd__mux4_1", 3225 ],
+         ["sky130_fd_sc_hd__mux2_1", 15597 ],
+         ["sky130_fd_sc_hd__a21oi_1", 659 ],
+         ["sky130_fd_sc_hd__and2_1", 1712 ],
+         ["sky130_fd_sc_hd__dfxtp_1", 15927 ],
+         ["sky130_fd_sc_hd__and2_4", 81 ],
+         ["sky130_fd_sc_hd__clkbuf_8", 2376 ],
+         ["sky130_fd_sc_hd__or2_1", 2741 ],
+         ["sky130_fd_sc_hd__mux4_2", 74 ],
+         ["sky130_fd_sc_hd__a2bb2o_1", 427 ],
+         ["sky130_fd_sc_hd__o221a_2", 15 ],
+         ["sky130_fd_sc_hd__nor2_1", 1746 ],
+         ["sky130_fd_sc_hd__a221o_1", 401 ],
+         ["sky130_fd_sc_hd__o2bb2a_1", 65 ],
+         ["sky130_fd_sc_hd__o211a_1", 1482 ],
+         ["sky130_fd_sc_hd__nand2_1", 2149 ],
+         ["sky130_fd_sc_hd__a21o_1", 1875 ],
+         ["sky130_fd_sc_hd__or2_4", 123 ],
+         ["sky130_fd_sc_hd__a41o_1", 20 ],
+         ["sky130_fd_sc_hd__xnor2_1", 1049 ],
+         ["sky130_fd_sc_hd__clkbuf_2", 163 ],
+         ["sky130_fd_sc_hd__a22o_1", 466 ],
+         ["sky130_fd_sc_hd__and3b_1", 573 ],
+         ["sky130_fd_sc_hd__a221oi_2", 8 ],
+         ["sky130_fd_sc_hd__xor2_1", 709 ],
+         ["sky130_fd_sc_hd__o221a_1", 315 ],
+         ["sky130_fd_sc_hd__or4_1", 104 ],
+         ["sky130_fd_sc_hd__o21a_1", 983 ],
+         ["sky130_fd_sc_hd__or3b_1", 85 ],
+         ["sky130_fd_sc_hd__a32o_4", 14 ],
+         ["sky130_fd_sc_hd__a21boi_1", 541 ],
+         ["sky130_fd_sc_hd__inv_2", 932 ],
+         ["sky130_fd_sc_hd__clkbuf_16", 295 ],
+         ["sky130_fd_sc_hd__and4_1", 11 ],
+         ["sky130_fd_sc_hd__a31o_1", 363 ],
+         ["sky130_fd_sc_hd__clkinv_4", 188 ],
+         ["sky130_fd_sc_hd__and2_2", 43 ],
+         ["sky130_fd_sc_hd__a211o_1", 121 ],
+         ["sky130_fd_sc_hd__a32o_1", 99 ],
+         ["sky130_fd_sc_hd__buf_12", 642 ],
+         ["sky130_fd_sc_hd__dfxtp_4", 257 ],
+         ["sky130_fd_sc_hd__and2b_1", 569 ],
+         ["sky130_fd_sc_hd__inv_6", 274 ],
+         ["sky130_fd_sc_hd__inv_8", 86 ],
+         ["sky130_fd_sc_hd__clkbuf_4", 295 ],
+         ["sky130_fd_sc_hd__a311o_1", 142 ],
+         ["sky130_fd_sc_hd__clkinvlp_4", 292 ],
+         ["sky130_fd_sc_hd__bufinv_16", 243 ],
+         ["sky130_fd_sc_hd__a311o_2", 36 ],
+         ["sky130_fd_sc_hd__o22a_1", 38 ],
+         ["sky130_fd_sc_hd__o21ba_1", 42 ],
+         ["sky130_fd_sc_hd__nand3b_4", 8 ],
+         ["sky130_fd_sc_hd__nand2_2", 37 ],
+         ["sky130_fd_sc_hd__a31o_2", 18 ],
+         ["sky130_fd_sc_hd__o32a_1", 24 ],
+         ["sky130_fd_sc_hd__or4_2", 7 ],
+         ["sky130_fd_sc_hd__o2111a_1", 14 ],
+         ["sky130_fd_sc_hd__o21ai_1", 456 ],
+         ["sky130_fd_sc_hd__nand2_4", 85 ],
+         ["sky130_fd_sc_hd__or3_1", 438 ],
+         ["sky130_fd_sc_hd__clkinv_2", 410 ],
+         ["sky130_fd_sc_hd__and4bb_1", 61 ],
+         ["sky130_fd_sc_hd__nand2b_4", 19 ],
+         ["sky130_fd_sc_hd__or3_2", 6 ],
+         ["sky130_fd_sc_hd__nand2b_1", 163 ],
+         ["sky130_fd_sc_hd__nand2_8", 60 ],
+         ["sky130_fd_sc_hd__a2111o_1", 20 ],
+         ["sky130_fd_sc_hd__and3_2", 9 ],
+         ["sky130_fd_sc_hd__o31a_1", 169 ],
+         ["sky130_fd_sc_hd__o311a_1", 176 ],
+         ["sky130_fd_sc_hd__buf_4", 228 ],
+         ["sky130_fd_sc_hd__and2b_4", 75 ],
+         ["sky130_fd_sc_hd__o31ai_2", 2 ],
+         ["sky130_fd_sc_hd__o211ai_1", 23 ],
+         ["sky130_fd_sc_hd__and3_1", 289 ],
+         ["sky130_fd_sc_hd__mux2_4", 3 ],
+         ["sky130_fd_sc_hd__a211oi_1", 26 ],
+         ["sky130_fd_sc_hd__dfxtp_2", 104 ],
+         ["sky130_fd_sc_hd__and4b_1", 5 ],
+         ["sky130_fd_sc_hd__mux2_8", 16 ],
+         ["sky130_fd_sc_hd__a21bo_1", 123 ],
+         ["sky130_fd_sc_hd__and4_4", 14 ],
+         ["sky130_fd_sc_hd__or2_2", 65 ],
+         ["sky130_fd_sc_hd__clkbuf_1", 85 ],
+         ["sky130_fd_sc_hd__nor3_1", 142 ],
+         ["sky130_fd_sc_hd__and4b_4", 16 ],
+         ["sky130_fd_sc_hd__nor3_4", 28 ],
+         ["sky130_fd_sc_hd__buf_8", 25 ],
+         ["sky130_fd_sc_hd__a311o_4", 8 ],
+         ["sky130_fd_sc_hd__nor3_2", 23 ],
+         ["sky130_fd_sc_hd__o21a_4", 1 ],
+         ["sky130_fd_sc_hd__or4b_1", 9 ],
+         ["sky130_fd_sc_hd__or3b_2", 7 ],
+         ["sky130_fd_sc_hd__o21bai_1", 8 ],
+         ["sky130_fd_sc_hd__o31ai_1", 19 ],
+         ["sky130_fd_sc_hd__a311oi_4", 3 ],
+         ["sky130_fd_sc_hd__and3b_4", 12 ],
+         ["sky130_fd_sc_hd__and4_2", 1 ],
+         ["sky130_fd_sc_hd__o41a_1", 3 ],
+         ["sky130_fd_sc_hd__nor2_8", 95 ],
+         ["sky130_fd_sc_hd__buf_6", 162 ],
+         ["sky130_fd_sc_hd__clkinv_16", 22 ],
+         ["sky130_fd_sc_hd__nand2b_2", 36 ],
+         ["sky130_fd_sc_hd__inv_4", 29 ],
+         ["sky130_fd_sc_hd__a211oi_2", 32 ],
+         ["sky130_fd_sc_hd__nor2_2", 37 ],
+         ["sky130_fd_sc_hd__or4bb_4", 10 ],
+         ["sky130_fd_sc_hd__buf_2", 8 ],
+         ["sky130_fd_sc_hd__a31o_4", 5 ],
+         ["sky130_fd_sc_hd__o21ai_4", 1 ],
+         ["sky130_fd_sc_hd__a21o_4", 4 ],
+         ["sky130_fd_sc_hd__a31oi_1", 10 ],
+         ["sky130_fd_sc_hd__or4b_4", 16 ],
+         ["sky130_fd_sc_hd__o211a_4", 4 ],
+         ["sky130_fd_sc_hd__o31a_2", 6 ],
+         ["sky130_fd_sc_hd__nor4_1", 16 ],
+         ["sky130_fd_sc_hd__nor2_4", 13 ],
+         ["sky130_fd_sc_hd__clkinv_8", 31 ],
+         ["sky130_fd_sc_hd__conb_1", 8 ],
+         ["sky130_fd_sc_hd__or4bb_1", 2 ],
+         ["sky130_fd_sc_hd__a221oi_1", 21 ],
+         ["sky130_fd_sc_hd__a22oi_4", 1 ],
+         ["sky130_fd_sc_hd__a22o_2", 2 ],
+         ["sky130_fd_sc_hd__a211o_4", 11 ],
+         ["sky130_fd_sc_hd__o311a_2", 4 ],
+         ["sky130_fd_sc_hd__a221o_2", 13 ],
+         ["sky130_fd_sc_hd__a21oi_2", 10 ],
+         ["sky130_fd_sc_hd__nand3_2", 4 ],
+         ["sky130_fd_sc_hd__a22oi_1", 7 ],
+         ["sky130_fd_sc_hd__or3_4", 11 ],
+         ["sky130_fd_sc_hd__and3_4", 13 ],
+         ["sky130_fd_sc_hd__a22o_4", 11 ],
+         ["sky130_fd_sc_hd__a31oi_2", 2 ],
+         ["sky130_fd_sc_hd__inv_12", 4 ],
+         ["sky130_fd_sc_hd__a211oi_4", 3 ],
+         ["sky130_fd_sc_hd__o311ai_2", 3 ],
+         ["sky130_fd_sc_hd__xnor2_4", 12 ],
+         ["sky130_fd_sc_hd__o211ai_4", 5 ],
+         ["sky130_fd_sc_hd__a32o_2", 8 ],
+         ["sky130_fd_sc_hd__nand3_1", 18 ],
+         ["sky130_fd_sc_hd__or4_4", 15 ],
+         ["sky130_fd_sc_hd__or4b_2", 1 ],
+         ["sky130_fd_sc_hd__nor3b_4", 7 ],
+         ["sky130_fd_sc_hd__xor2_4", 1 ],
+         ["sky130_fd_sc_hd__nand3_4", 6 ],
+         ["sky130_fd_sc_hd__o31ai_4", 2 ],
+         ["sky130_fd_sc_hd__xnor2_2", 28 ],
+         ["sky130_fd_sc_hd__a21o_2", 8 ],
+         ["sky130_fd_sc_hd__mux2_2", 4 ],
+         ["sky130_fd_sc_hd__o41a_2", 1 ],
+         ["sky130_fd_sc_hd__nand3b_2", 2 ],
+         ["sky130_fd_sc_hd__a41o_2", 1 ],
+         ["sky130_fd_sc_hd__or3b_4", 12 ],
+         ["sky130_fd_sc_hd__o22a_2", 4 ],
+         ["sky130_fd_sc_hd__xor2_2", 2 ],
+         ["sky130_fd_sc_hd__and3b_2", 2 ],
+         ["sky130_fd_sc_hd__a31oi_4", 2 ],
+         ["sky130_fd_sc_hd__o41ai_4", 1 ],
+         ["sky130_fd_sc_hd__and4b_2", 1 ],
+         ["sky130_fd_sc_hd__and4bb_4", 11 ],
+         ["sky130_fd_sc_hd__a21oi_4", 6 ],
+         ["sky130_sram_1kbyte_1rw1r_8x1024_8", 8 ],
+         ["sky130_fd_sc_hd__and4bb_2", 14 ],
+         ["sky130_fd_sc_hd__o221ai_1", 3 ],
+         ["sky130_fd_sc_hd__o22ai_1", 2 ],
+         ["sky130_fd_sc_hd__o211a_2", 11 ],
+         ["sky130_fd_sc_hd__o21bai_4", 1 ],
+         ["sky130_fd_sc_hd__a221o_4", 11 ],
+         ["sky130_fd_sc_hd__o211ai_2", 5 ],
+         ["sky130_fd_sc_hd__o21ai_2", 4 ],
+         ["sky130_fd_sc_hd__nor4_4", 3 ],
+         ["sky130_fd_sc_hd__a2111oi_1", 4 ],
+         ["sky130_fd_sc_hd__a41o_4", 2 ],
+         ["sky130_fd_sc_hd__a211o_2", 1 ],
+         ["sky130_fd_sc_hd__and2b_2", 3 ],
+         ["sky130_fd_sc_hd__a32oi_1", 2 ],
+         ["sky130_fd_sc_hd__nand4_4", 2 ],
+         ["sky130_fd_sc_hd__o32ai_1", 1 ],
+         ["sky130_fd_sc_hd__nor4_2", 4 ],
+         ["sky130_fd_sc_hd__inv_16", 2 ],
+         ["sky130_fd_sc_hd__a2111oi_2", 1 ],
+         ["sky130_fd_sc_hd__nand4b_4", 1 ],
+         ["sky130_fd_sc_hd__nand3b_1", 4 ],
+         ["sky130_fd_sc_hd__a311oi_2", 1 ],
+         ["sky130_fd_sc_hd__nand4_2", 1 ],
+         ["sky130_fd_sc_hd__o41a_4", 1 ],
+         ["sky130_fd_sc_hd__o311ai_4", 2 ],
+         ["sky130_fd_sc_hd__o21bai_2", 4 ],
+         ["sky130_fd_sc_hd__o2111ai_1", 3 ],
+         ["sky130_fd_sc_hd__nand4b_1", 1 ],
+         ["sky130_fd_sc_hd__o221ai_4", 1 ],
+         ["sky130_fd_sc_hd__clkinv_1", 1 ],
+         ["sky130_fd_sc_hd__or4bb_2", 1 ],
+         ["sky130_fd_sc_hd__o2111ai_2", 1 ]
+       ]
+   ],
+   "nets": [
+    80944,
+    80944
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "cfg_w_addr[11]",
+        "cfg_w_addr[1]",
+        "cfg_w_addr[3]",
+        "cfg_w_addr[6]",
+        "cfg_w_addr[8]",
+        "cfg_w_addr[4]",
+        "cfg_w_addr[2]",
+        "cfg_w_addr[7]",
+        "cfg_w_addr[0]",
+        "cfg_w_addr[9]",
+        "cfg_w_addr[5]",
+        "ext_aer_neuron_id[0]",
+        "ext_aer_neuron_id[1]",
+        "ext_aer_neuron_id[2]",
+        "ext_aer_neuron_id[3]",
+        "ext_aer_neuron_id[4]",
+        "ext_aer_neuron_id[5]",
+        "ext_aer_req",
+        "out_aer_ack",
+        "current_timestamp[0]",
+        "current_timestamp[3]",
+        "current_timestamp[1]",
+        "current_timestamp[13]",
+        "current_timestamp[7]",
+        "current_timestamp[10]",
+        "current_timestamp[2]",
+        "current_timestamp[15]",
+        "current_timestamp[14]",
+        "current_timestamp[8]",
+        "current_timestamp[11]",
+        "current_timestamp[6]",
+        "current_timestamp[4]",
+        "current_timestamp[9]",
+        "current_timestamp[12]",
+        "current_timestamp[5]",
+        "out_aer_addr[0]",
+        "out_aer_req",
+        "out_aer_addr[5]",
+        "out_aer_addr[3]",
+        "ext_aer_ack",
+        "stdp_event_overflow",
+        "out_aer_overflow",
+        "cfg_w_ready",
+        "stdp_ready",
+        "out_aer_addr[1]",
+        "w_mon_data[12]",
+        "w_mon_data[5]",
+        "w_mon_data[4]",
+        "w_mon_data[3]",
+        "w_mon_data[2]",
+        "w_mon_data[1]",
+        "out_aer_addr[4]",
+        "w_mon_data[6]",
+        "w_mon_data[0]",
+        "w_mon_data[14]",
+        "w_mon_data[13]",
+        "w_mon_data[8]",
+        "out_aer_addr[2]",
+        "w_mon_data[11]",
+        "w_mon_data[10]",
+        "w_mon_data[15]",
+        "w_mon_data[9]",
+        "w_mon_data[7]",
+        "ext_syn_ready",
+        "neuron_spikes[18]",
+        "neuron_spikes[26]",
+        "neuron_spikes[32]",
+        "neuron_spikes[36]",
+        "neuron_spikes[40]",
+        "neuron_spikes[55]",
+        "neuron_spikes[5]",
+        "neuron_spikes[33]",
+        "neuron_spikes[35]",
+        "neuron_spikes[48]",
+        "neuron_spikes[54]",
+        "neuron_spikes[56]",
+        "neuron_spikes[8]",
+        "w_mon_ready",
+        "neuron_spikes[11]",
+        "neuron_spikes[3]",
+        "neuron_spikes[43]",
+        "neuron_spikes[19]",
+        "neuron_spikes[51]",
+        "neuron_spikes[57]",
+        "neuron_spikes[0]",
+        "neuron_spikes[14]",
+        "neuron_spikes[15]",
+        "neuron_spikes[16]",
+        "neuron_spikes[17]",
+        "neuron_spikes[20]",
+        "neuron_spikes[21]",
+        "neuron_spikes[24]",
+        "neuron_spikes[31]",
+        "neuron_spikes[47]",
+        "neuron_spikes[4]",
+        "neuron_spikes[50]",
+        "neuron_spikes[53]",
+        "neuron_spikes[63]",
+        "neuron_spikes[13]",
+        "neuron_spikes[10]",
+        "neuron_spikes[22]",
+        "neuron_spikes[23]",
+        "neuron_spikes[27]",
+        "neuron_spikes[25]",
+        "neuron_spikes[28]",
+        "neuron_spikes[29]",
+        "neuron_spikes[30]",
+        "neuron_spikes[34]",
+        "neuron_spikes[37]",
+        "neuron_spikes[38]",
+        "neuron_spikes[39]",
+        "neuron_spikes[41]",
+        "neuron_spikes[42]",
+        "neuron_spikes[44]",
+        "neuron_spikes[45]",
+        "neuron_spikes[46]",
+        "neuron_spikes[49]",
+        "neuron_spikes[52]",
+        "neuron_spikes[58]",
+        "neuron_spikes[59]",
+        "neuron_spikes[60]",
+        "neuron_spikes[61]",
+        "neuron_spikes[2]",
+        "neuron_spikes[1]",
+        "neuron_spikes[62]",
+        "neuron_spikes[6]",
+        "neuron_spikes[12]",
+        "neuron_spikes[7]",
+        "neuron_spikes[9]",
+        "clk",
+        "rst_n",
+        "cfg_w_wr_en",
+        "ext_syn_current[1]",
+        "ext_syn_valid",
+        "ext_syn_current[0]",
+        "ext_syn_current[15]",
+        "ext_syn_current[2]",
+        "ext_syn_current[14]",
+        "ext_syn_current[11]",
+        "ext_syn_current[12]",
+        "ext_syn_current[10]",
+        "ext_syn_current[13]",
+        "ext_syn_current[7]",
+        "ext_syn_current[5]",
+        "ext_syn_current[9]",
+        "ext_syn_current[3]",
+        "ext_syn_current[8]",
+        "ext_syn_current[6]",
+        "ext_syn_current[4]",
+        "cfg_w_addr[10]",
+        "cfg_w_data[6]",
+        "cfg_w_data[3]",
+        "cfg_w_data[7]",
+        "cfg_w_data[9]",
+        "cfg_w_data[5]",
+        "cfg_w_data[8]",
+        "cfg_w_data[12]",
+        "cfg_w_data[0]",
+        "cfg_w_data[13]",
+        "cfg_w_data[11]",
+        "cfg_w_data[14]",
+        "cfg_w_data[15]",
+        "cfg_w_data[1]",
+        "cfg_w_data[4]",
+        "cfg_w_data[2]",
+        "cfg_w_data[10]",
+        "w_mon_addr[10]",
+        "w_mon_addr[11]",
+        "w_mon_addr[1]",
+        "w_mon_addr[8]",
+        "w_mon_addr[3]",
+        "w_mon_addr[4]",
+        "w_mon_addr[9]",
+        "w_mon_addr[7]",
+        "w_mon_addr[6]",
+        "w_mon_addr[5]",
+        "w_mon_addr[2]",
+        "w_mon_addr[0]",
+        "ext_syn_neuron_id[4]",
+        "ext_syn_neuron_id[3]",
+        "ext_syn_neuron_id[0]",
+        "ext_syn_neuron_id[5]",
+        "ext_syn_neuron_id[2]",
+        "ext_syn_neuron_id[1]",
+        "w_mon_rd_en",
+        "VGND",
+        "VPWR"
+      ], [
+        "cfg_w_addr[11]",
+        "cfg_w_addr[1]",
+        "cfg_w_addr[3]",
+        "cfg_w_addr[6]",
+        "cfg_w_addr[8]",
+        "cfg_w_addr[4]",
+        "cfg_w_addr[2]",
+        "cfg_w_addr[7]",
+        "cfg_w_addr[0]",
+        "cfg_w_addr[9]",
+        "cfg_w_addr[5]",
+        "ext_aer_neuron_id[0]",
+        "ext_aer_neuron_id[1]",
+        "ext_aer_neuron_id[2]",
+        "ext_aer_neuron_id[3]",
+        "ext_aer_neuron_id[4]",
+        "ext_aer_neuron_id[5]",
+        "ext_aer_req",
+        "out_aer_ack",
+        "current_timestamp[0]",
+        "current_timestamp[3]",
+        "current_timestamp[1]",
+        "current_timestamp[13]",
+        "current_timestamp[7]",
+        "current_timestamp[10]",
+        "current_timestamp[2]",
+        "current_timestamp[15]",
+        "current_timestamp[14]",
+        "current_timestamp[8]",
+        "current_timestamp[11]",
+        "current_timestamp[6]",
+        "current_timestamp[4]",
+        "current_timestamp[9]",
+        "current_timestamp[12]",
+        "current_timestamp[5]",
+        "out_aer_addr[0]",
+        "out_aer_req",
+        "out_aer_addr[5]",
+        "out_aer_addr[3]",
+        "ext_aer_ack",
+        "stdp_event_overflow",
+        "out_aer_overflow",
+        "cfg_w_ready",
+        "stdp_ready",
+        "out_aer_addr[1]",
+        "w_mon_data[12]",
+        "w_mon_data[5]",
+        "w_mon_data[4]",
+        "w_mon_data[3]",
+        "w_mon_data[2]",
+        "w_mon_data[1]",
+        "out_aer_addr[4]",
+        "w_mon_data[6]",
+        "w_mon_data[0]",
+        "w_mon_data[14]",
+        "w_mon_data[13]",
+        "w_mon_data[8]",
+        "out_aer_addr[2]",
+        "w_mon_data[11]",
+        "w_mon_data[10]",
+        "w_mon_data[15]",
+        "w_mon_data[9]",
+        "w_mon_data[7]",
+        "ext_syn_ready",
+        "neuron_spikes[18]",
+        "neuron_spikes[26]",
+        "neuron_spikes[32]",
+        "neuron_spikes[36]",
+        "neuron_spikes[40]",
+        "neuron_spikes[55]",
+        "neuron_spikes[5]",
+        "neuron_spikes[33]",
+        "neuron_spikes[35]",
+        "neuron_spikes[48]",
+        "neuron_spikes[54]",
+        "neuron_spikes[56]",
+        "neuron_spikes[8]",
+        "w_mon_ready",
+        "neuron_spikes[11]",
+        "neuron_spikes[3]",
+        "neuron_spikes[43]",
+        "neuron_spikes[19]",
+        "neuron_spikes[51]",
+        "neuron_spikes[57]",
+        "neuron_spikes[0]",
+        "neuron_spikes[14]",
+        "neuron_spikes[15]",
+        "neuron_spikes[16]",
+        "neuron_spikes[17]",
+        "neuron_spikes[20]",
+        "neuron_spikes[21]",
+        "neuron_spikes[24]",
+        "neuron_spikes[31]",
+        "neuron_spikes[47]",
+        "neuron_spikes[4]",
+        "neuron_spikes[50]",
+        "neuron_spikes[53]",
+        "neuron_spikes[63]",
+        "neuron_spikes[13]",
+        "neuron_spikes[10]",
+        "neuron_spikes[22]",
+        "neuron_spikes[23]",
+        "neuron_spikes[27]",
+        "neuron_spikes[25]",
+        "neuron_spikes[28]",
+        "neuron_spikes[29]",
+        "neuron_spikes[30]",
+        "neuron_spikes[34]",
+        "neuron_spikes[37]",
+        "neuron_spikes[38]",
+        "neuron_spikes[39]",
+        "neuron_spikes[41]",
+        "neuron_spikes[42]",
+        "neuron_spikes[44]",
+        "neuron_spikes[45]",
+        "neuron_spikes[46]",
+        "neuron_spikes[49]",
+        "neuron_spikes[52]",
+        "neuron_spikes[58]",
+        "neuron_spikes[59]",
+        "neuron_spikes[60]",
+        "neuron_spikes[61]",
+        "neuron_spikes[2]",
+        "neuron_spikes[1]",
+        "neuron_spikes[62]",
+        "neuron_spikes[6]",
+        "neuron_spikes[12]",
+        "neuron_spikes[7]",
+        "neuron_spikes[9]",
+        "clk",
+        "rst_n",
+        "cfg_w_wr_en",
+        "ext_syn_current[1]",
+        "ext_syn_valid",
+        "ext_syn_current[0]",
+        "ext_syn_current[15]",
+        "ext_syn_current[2]",
+        "ext_syn_current[14]",
+        "ext_syn_current[11]",
+        "ext_syn_current[12]",
+        "ext_syn_current[10]",
+        "ext_syn_current[13]",
+        "ext_syn_current[7]",
+        "ext_syn_current[5]",
+        "ext_syn_current[9]",
+        "ext_syn_current[3]",
+        "ext_syn_current[8]",
+        "ext_syn_current[6]",
+        "ext_syn_current[4]",
+        "cfg_w_addr[10]",
+        "cfg_w_data[6]",
+        "cfg_w_data[3]",
+        "cfg_w_data[7]",
+        "cfg_w_data[9]",
+        "cfg_w_data[5]",
+        "cfg_w_data[8]",
+        "cfg_w_data[12]",
+        "cfg_w_data[0]",
+        "cfg_w_data[13]",
+        "cfg_w_data[11]",
+        "cfg_w_data[14]",
+        "cfg_w_data[15]",
+        "cfg_w_data[1]",
+        "cfg_w_data[4]",
+        "cfg_w_data[2]",
+        "cfg_w_data[10]",
+        "w_mon_addr[10]",
+        "w_mon_addr[11]",
+        "w_mon_addr[1]",
+        "w_mon_addr[8]",
+        "w_mon_addr[3]",
+        "w_mon_addr[4]",
+        "w_mon_addr[9]",
+        "w_mon_addr[7]",
+        "w_mon_addr[6]",
+        "w_mon_addr[5]",
+        "w_mon_addr[2]",
+        "w_mon_addr[0]",
+        "ext_syn_neuron_id[4]",
+        "ext_syn_neuron_id[3]",
+        "ext_syn_neuron_id[0]",
+        "ext_syn_neuron_id[5]",
+        "ext_syn_neuron_id[2]",
+        "ext_syn_neuron_id[1]",
+        "w_mon_rd_en",
+        "VGND",
+        "VPWR"
+      ]
+   ]
+  }
+]

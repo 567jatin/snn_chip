@@ -1,0 +1,26 @@
+
+23. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\neuromorphic_top.\sram_a_wr_en' from process `\neuromorphic_top.$proc$./neuromorphic_top.v:112$10'.
+No latch inferred for signal `\neuromorphic_top.\sram_a_rd_en' from process `\neuromorphic_top.$proc$./neuromorphic_top.v:112$10'.
+No latch inferred for signal `\neuromorphic_top.\sram_a_addr' from process `\neuromorphic_top.$proc$./neuromorphic_top.v:112$10'.
+No latch inferred for signal `\neuromorphic_top.\sram_a_wr_data' from process `\neuromorphic_top.$proc$./neuromorphic_top.v:112$10'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_lo[0]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_lo[1]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_lo[2]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_lo[3]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_hi[0]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_hi[1]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_hi[2]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\rw_hi[3]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_lo[0]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_lo[1]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_lo[2]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_lo[3]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_hi[0]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_hi[1]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_hi[2]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.\r_hi[3]' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$942'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$mem2reg_rd$\r_hi$./weight_sram.v:57$838_DATA' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$939'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$mem2reg_rd$\r_lo$./weight_sram.v:57$837_DATA' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$936'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$mem2reg_rd$\rw_hi$./weight_sram.v:56$836_DATA' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$933'.
+No latch inferred for signal `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$mem2reg_rd$\rw_lo$./weight_sram.v:56$835_DATA' from process `$paramod$724c333d0cd045e13d3c037910b1b61f46ed4f51\weight_sram.$proc$./weight_sram.v:0$930'.

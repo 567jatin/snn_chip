@@ -1,0 +1,12 @@
+[INFO PSM-0040] All shapes on net VPWR are connected.
+[INFO PSM-0015] Reading location of sources from: ./vsrc_vpwr.txt.
+########## IR report #################
+Net              : VPWR
+Corner           : nom_tt_025C_1v80
+Supply voltage   : 1.80e+00 V
+Worstcase voltage: 1.65e+00 V
+Average voltage  : 1.69e+00 V
+Average IR drop  : 1.05e-01 V
+Worstcase IR drop: 1.54e-01 V
+Percentage drop  : 8.58 %
+######################################
